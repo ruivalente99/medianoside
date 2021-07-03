@@ -16,6 +16,6 @@ Um simples script para calcular a média
  - Clicar  **`Enter`**
  -  😭 
 
-**
-![Como utilizar ](https://i.imgur.com/l6d0JyK.gif))
+
+![Como utilizar ](https://i.imgur.com/l6d0JyK.gif)
 

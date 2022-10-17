@@ -1,0 +1,14 @@
+{
+    "name": "Média no SIDE",
+    "description": "Média no SIDE",
+    "version": "1.0",
+    "permissions" : ["activeTab","scripting","tabs","*://www.campus.utad.pt/registoacademico/PlanoEstudos/*"],
+    "manifest_version": 3,
+    "content_scripts": [
+        {
+            "matches": ["*://www.campus.utad.pt/registoacademico/PlanoEstudos/*"],
+            "js": ["content.js"],
+            "run_at": "document_end"
+        }
+    ]
+}

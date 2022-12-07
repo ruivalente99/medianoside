@@ -127,3 +127,10 @@ for (let i = 1, row; row = rows[i]; i++) {
     row.style = "background-color: #ccffcc;";
   }
 }
+
+
+let downloadButton = document.createElement("button");
+
+authorTag.style = "color: grey; font-size: 10px; margin-top: 10px;";
+authorTag.innerHTML = "Created by Rui Valente";
+cardBody.appendChild(authorTag);
